@@ -128,7 +128,7 @@ If you would like to send notifications with Expo servers, the servers will need
 
 # Contributing
 
-Contributions are very welcome! Please refer to guidelines described in the [contributing guide](https://github.com/expo/expo#contributing).
+Contributions are very welcome! Please refer to guidelines described in the [contributing guide](https://github.com/expo/expo#-contributing).
 
 ---
 
